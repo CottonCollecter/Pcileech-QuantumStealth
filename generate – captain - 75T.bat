@@ -1,0 +1,1 @@
+E:\VIVADO2023\Vivado\2023.2\bin\vivado -source vivado_generate_project_captain_75T.tcl -notrace -nolog -nojournal
